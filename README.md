@@ -24,6 +24,6 @@ Repositório reservado para o Bootcamp Orange Tech +, uma parceria [ Inter ](htt
 
 
 Desafio realizado no Bootcamp é o da Pokedex está em outro repositório:</br>
-<a href="https://github.com/CodesdaLu/pokedex"><img src="https://user-images.githubusercontent.com/29473781/180619084-a56960ab-7efa-4e34-9d33-4e3e581d62ff.png"         alt="link Pokedex" height=100  width=250></a>
+<a href="https://github.com/CodesdaLu/pokedex"><img src="https://user-images.githubusercontent.com/29473781/180619084-a56960ab-7efa-4e34-9d33-4e3e581d62ff.png"         alt="link Pokedex" height=80 width=180></a>
 
 
